@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Experimental resource pack for future vanilla content",
+        "name": "experimental future vanilla content",
+        "uuid": "4e5f12d9-845e-45f5-a936-dd9a41b86a29",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Experimental resource pack for future vanilla content",
+            "type": "resources",
+            "uuid": "172a84e2-a2b1-461b-b965-67081ffb8fb3",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

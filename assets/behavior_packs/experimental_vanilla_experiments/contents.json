@@ -1,0 +1,31 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "features/sculk_catalyst_central_patch_feature.json"
+        },
+        {
+            "path": "features/sculk_catalyst_feature.json"
+        },
+        {
+            "path": "features/sculk_catalyst_snap_to_floor_feature.json"
+        },
+        {
+            "path": "features/sculk_patch_feature.json"
+        },
+        {
+            "path": "features/sculk_vein_cluster_feature.json"
+        },
+        {
+            "path": "features/sculk_vein_feature.json"
+        },
+        {
+            "path": "feature_rules/overworld_underground_sculk_vein_feature.json"
+        },
+        {
+            "path": "feature_rules/sculk_catalyst_feature.json"
+        }
+    ]
+}
